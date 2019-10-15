@@ -1,5 +1,5 @@
 {
-  "name": "@edenjs/session-store",
+  "name": "@ifactoryjs/session-store",
   "description": "",
   "version": "0.0.2",
   "dependencies": {},
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eden-js/socket.git"
+    "url": "git+https://github.com/ifactorydigital/ifactoryjs_socket.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eden-js/socket/issues"
+    "url": "https://github.com/ifactorydigital/ifactoryjs_socket/issues"
   },
-  "homepage": "https://github.com/eden-js/socket#readme",
+  "homepage": "https://github.com/ifactorydigital/ifactoryjs_socket#readme",
   "devDependencies": {
     "@edenjs/eslint-config-eden": "^2.0.14",
     "eslint": "^5.15.1",
